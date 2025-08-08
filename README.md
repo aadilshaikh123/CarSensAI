@@ -12,13 +12,9 @@ This project combines fine-tuned LLaMA 3.2 1B model with a vector database to cr
 
 ## 🏗️ Architecture
 
-```
-## 🏗️ Architecture
-
-![CarSenseAI Architecture](./G:\Mech_Bot\architecture.png)
+![CarSenseAI Architecture](./architecture.png)
 
 *CarSenseAI system architecture showing the complete pipeline from data sources to user interface*
-```
 
 ## 📁 Project Structure
 
