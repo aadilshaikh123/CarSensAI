@@ -1,4 +1,8 @@
-# 🚗 Mech Q&A Bot - AI-Powered Mechanical Engineering Assistant
+# 🚗 CarSenseAI - AI-Powered Mechanical Engineering Assistant
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-CarSenseAI-blue?logo=github)](https://github.com/aadilshaikh123/CarSensAI)
+[![Python](https://img.shields.io/badge/Python-3.8+-green?logo=python)](https://python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io)
 
 A sophisticated Retrieval-Augmented Generation (RAG) system fine-tuned on automotive and mechanical engineering knowledge, providing accurate answers to technical questions about cars, engines, and mechanical systems.
 
@@ -60,8 +64,8 @@ This project combines fine-tuned LLaMA 3.2 1B model with a vector database to cr
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
-cd Mech_Bot
+git clone https://github.com/aadilshaikh123/CarSenseAI.git
+cd CarSenseAI
 ```
 
 2. **Create virtual environment**
